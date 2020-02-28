@@ -1,6 +1,2 @@
-# master-tester
-# master-tester
-# master-tester
-# master-tester
-# master-bot
-# master-bot
+# master-bot 🤖
+Bot that play my tax evasion game for my master thesis. The game can be found here: https://eksperiment-uib.herokuapp.com/
